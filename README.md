@@ -3,13 +3,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nomanpervaiz&label=Profile%20views&color=0e75b6&style=flat" alt="nomanpervaiz" /> </p>
 
-- 🔭 I’m currently working on **my Portfolio**
+- 😊 Check out my work at my portfolio**https://portfolio-nomanpervaiz.netlify.app**
 
 - 🌱 I’m currently learning **web and app Development**
 
 - 💬 Ask me about **Html,Css,Javascript,Bootstrap**
 
 - 📫 How to reach me **nomanpervaiz035@gmail.com**
+
+- 🔭 I’m currently working on **Javascript** 
 
 - ⚡ Fun fact **i think i'm quick learner**
 
