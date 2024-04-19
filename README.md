@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nomanpervaiz&label=Profile%20views&color=0e75b6&style=flat" alt="nomanpervaiz" /> </p>
 
-- 😊 Check out my work at my portfolio**https://portfolio-nomanpervaiz.netlify.app**
+- 😊 Check out my work at my portfolio: **https://portfolio-nomanpervaiz.netlify.app**
 
 - 🌱 I’m currently learning **web and app Development**
 
